@@ -40,3 +40,7 @@ Glow Daily Practice is also available as an Apple-platform app:
 
 - [Glow repository](https://github.com/donnoel/Glow)
 - [Glow project page](https://donnoel.github.io/Glow/)
+
+## Credits
+
+Built with care by **Don Noel** and Codex collaboration.
