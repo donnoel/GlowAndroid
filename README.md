@@ -12,7 +12,7 @@
 
 ---
 
-## ✨ Overview
+## 🧭 Overview
 
 Glow Daily Practice for Android is an in-development habit-building app built with Kotlin and Jetpack Compose. It explores how the Glow experience can translate to Android while keeping the interface calm, focused, and easy to use.
 
